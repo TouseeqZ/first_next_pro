@@ -7,7 +7,7 @@ export default function Home() {
         Aslam O Alaikum
       </h1>
       <p style={{ fontFamily: 'Arial, sans-serif', fontSize: '18px', textAlign: 'center' }}>
-        My name is Syed Touseeq Haider and I'm a software engineer.
+        My name is Syed Touseeq Haider and I am a software engineer.
       </p>
     </>
   );
